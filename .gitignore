@@ -1,0 +1,14 @@
+# 虚拟环境
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 生成的图片（除了这张总览图）
+*.png
+!my_charts.png
